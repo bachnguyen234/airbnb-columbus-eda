@@ -44,7 +44,7 @@ The project uses Airbnb listing data from the **Columbus, Ohio area**, along wit
 ## Repository Structure
 
 ```text
-├── *.ipynb                 # Analysis notebook
+├── airbnb_columbus_eda.ipynb                 # Analysis notebook
 ├── Columbus_listings.csv   # Airbnb listing data
 ├── cbus_landmarks.csv      # Columbus landmark data
 └── README.md
